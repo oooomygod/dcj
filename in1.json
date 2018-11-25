@@ -80,12 +80,12 @@
     },
      {
    "name" : "天秤座",
-    English" : "",
+    "English" : "你好",
     "time" : "9月23日-10月23日",
     "alias" : "天平座",
     "symble":"平衡",
-      "planet":"金星",
-      "flower" : [
+    "planet":"金星",
+    "flower" : [
         "海芋",
         "非洲菊",
         "猫尾花"
