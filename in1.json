@@ -130,9 +130,9 @@
      {
    "name" : "水瓶座",
       "English" : "Aquarius",
-      "time":"1月20日-2月18日",
-      "alias" : "宝瓶座",
-      "symble":"叛逆",
+    "time":"1月20日-2月18日",
+    "alias":"宝瓶座",
+    "symble":"叛逆",
       "planet":"天王星",
       "flower" : [
         "水仙",
