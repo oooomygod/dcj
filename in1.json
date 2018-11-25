@@ -16,23 +16,23 @@
       ]
     },
      {
-   "name" : "金牛座",
-    "English" : "Taurus",
-      "time" : "4月20日-5月20日",
-      "alias" : "金牛座",
-      "symble":"力量",
-      "planet":"金星",
-      "flower" : [
+   "name" :"金牛座",
+   "English" : "Taurus",
+   "time" : "4月20日-5月20日",
+   "alias" : "金牛座",
+   "symble":"力量",
+   "planet":"金星",
+   "flower" : [
         "牵牛花",
         "康乃馨"
       ]
     },
      {
    "name" : "双子座",
-      "English" : "Gemini",
-      "time" : "5月21日-6月21日",
-      "alias" : "双子座",
-      "symble":"智慧",
+   "English" : "Gemini",
+   "time" : "5月21日-6月21日",
+   "alias" : "双子座",
+   "symble":"智慧",
       "planet":"水星",
       "flower" : [
         "羊齿蕨",
